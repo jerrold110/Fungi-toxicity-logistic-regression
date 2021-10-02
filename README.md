@@ -10,12 +10,12 @@ This data mining project is the second attempt of my previous endeavor to classi
 I will attempt to classify the edibility of fungi specimens based on 22 different physical characteristics. The dataset has over 8124 rows of data with 23 columns, each representing the physical data of a fungi specimen. This is an entirely categorical dataset with a binary class label: poisonous or edible - which poses some difficulties in training a machine learning model. About one quarter of the data has missing values which were estimated using data from other rows rather than just simply being removed. There are two parts in this project.
 
 Data understanding and cleaning:
-*Exploratory data analysis 
-*Feature selection with variance analysis
-*Data cleaning with machine learning
+* Exploratory data analysis 
+* Feature selection with variance analysis
+* Data cleaning with machine learning
 
 Data Modelling:
-*Pre-processing with one-hot-encoding
-*Logistic Regression modelling and evaluation
-*Hyperparameter tuning with Cross-Validation
+* Pre-processing with one-hot-encoding
+* Logistic Regression modelling and evaluation
+* Hyperparameter tuning with Cross-Validation
 
